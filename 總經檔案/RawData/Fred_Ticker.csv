@@ -1,0 +1,11 @@
+﻿Ticker,名稱,chinese_columns,freq
+GDPC1,Real Gross Domestic Product,國內生產總值,Q
+CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,消費者物價指數,M
+UNRATE,Unemployment Rate,失業率,M
+FEDFUNDS,Effective Federal Funds Rate,聯邦基金利率,M
+M2SL,M2,M2 貨幣供應量,M
+INDPRO,Industrial Production: Total Index,工業生產指數,M
+GS10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",10年期國債收益率,M
+PAYEMS,"All Employees, Total Nonfarm",非農就業人數,M
+PCE,Personal Consumption Expenditures,個人消費支出,M
+HOUST,New Privately-Owned Housing Units Started: Total Units,房屋新開工量,M
